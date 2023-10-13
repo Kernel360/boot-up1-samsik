@@ -32,6 +32,8 @@
 ![1.png](document%2F1.png)
 
 ### 가게 API
+![가게_api_1.png](document%2F%EA%B0%80%EA%B2%8C_api_1.png)
+![가게_api_2.png](document%2F%EA%B0%80%EA%B2%8C_api_2.png)
 
 ### 리뷰 API
 ![review-api-spec.png](document%2Freview-api-spec.png)

@@ -23,6 +23,43 @@
 ## 유즈케이스
 ![usecase.svg](document%2Fusecase.svg)
 ## ERD
-![samsik.svg](document%2Fsamsik.svg)
 
 ![erd.png](document%2Ferd.png)
+
+## API 문서
+
+### 회원 API
+![1.png](document%2F1.png)
+
+### 가게 API
+
+### 리뷰 API
+![review-api-spec.png](document%2Freview-api-spec.png)
+
+### 메뉴 API
+![api_menu.png](document%2Fapi_menu.png)
+
+### 태그 API
+![api명세서_예약_1.png](document%2Fapi%EB%AA%85%EC%84%B8%EC%84%9C_%EC%98%88%EC%95%BD_1.png)
+
+# 개발 문화
+
+### 기능 도출
+
+![img_2.png](img_2.png)
+
+miro를 통해 프로젝트에 필요한 기능을 작성하고, 만들 기능에 대해 범위를 설정했습니다.
+
+
+### 기능 정리
+
+![img_3.png](img_3.png)
+
+깃허브에서 제공하는 Project를 이용해 자신이 만들 기능에 대한 이슈를 생성했습니다.
+
+### 리뷰
+
+
+![img_1.png](img_1.png)
+
+팀원들이 리뷰어로 들어오고, 올린 내용을 확인 후 2명 이상 승인을 해줄 경우 머지할 수 있도록 규칙을 정함.
